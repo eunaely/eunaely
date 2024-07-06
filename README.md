@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje trabalho com Back end 
+- 🔭 Trabalho com Back end, SQL, E Cyber Security
 - 🌱 Estudando Python e Java
 - 👯 Procuro uma vaga na área
 - 📫 Meu email - limanaely72@gmail.com
