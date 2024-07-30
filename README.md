@@ -1,4 +1,4 @@
-## Olá eu sou eunaely 👋
+## Olá sou eunaely 👋
 
 
 
